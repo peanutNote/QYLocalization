@@ -1,0 +1,12 @@
+/* 
+  Localization.strings
+  QYLocalization
+
+  Created by qianye on 16/4/18.
+  Copyright © 2016年 qianye. All rights reserved.
+*/
+Tip="Tip";
+
+Ok="Ok";
+
+"Please input your userName"="Please input your userName";

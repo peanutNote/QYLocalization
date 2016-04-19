@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  QYLocalization
+
+  Created by qianye on 16/4/18.
+  Copyright © 2016年 qianye. All rights reserved.
+*/
+CFBundleDisplayName="本地化";  
